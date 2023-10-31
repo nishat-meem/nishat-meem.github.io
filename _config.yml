@@ -1,5 +1,7 @@
 title: Nishat Tasnim Ahmed Meem
-#logo: /assets/img/headshot_circle.png
+logo: /assets/img/meem.jpg
 #description: text below image
 show_downloads: true
-theme: jekyll-theme-minimal
+remote_theme: pages-themes/time-machine@v0.2.0
+plugins:
+- jekyll-remote-theme
