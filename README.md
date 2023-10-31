@@ -4,7 +4,7 @@
 
 ### *Working Student - Data Scientist*, Inso Projects GmbH, Dusseldorf, Germany
 February 2022 – present
-..* Analyzing, processing and visualization of large volumes of unstructured text data mainly emails, to extract meaning and insights from the text using Python, Pandas, Numpy and Microsoft SQL.
+..*Analyzing, processing and visualization of large volumes of unstructured text data mainly emails, to extract meaning and insights from the text using Python, Pandas, Numpy and Microsoft SQL.
 ..* Extracting important information from PDFs using the PyPDF and Pytesseract libraries and organizing them in a structured format.
 ..* Creating interactive visualizations of the analyzed data using the Pyvis  library, to make it easier for stakeholders to understand and interpret the results of my analysis.
 ..* Developing machine learning models to classify and cluster text data to categorize emails.
